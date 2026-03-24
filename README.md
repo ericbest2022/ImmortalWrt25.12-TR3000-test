@@ -1,6 +1,6 @@
 ## OpenWrt firmware for 360T7
 
-# 稳定固件
+# 测试中
 
 
 Auto build OpenWrt firmware for 360T7 via GitHub Actions
