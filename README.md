@@ -1,15 +1,19 @@
-## OpenWrt firmware for 360T7
+# Cudy-TR3000-ImmortalWrt24.10-padavanonly
 
 # 测试中
 
 
-Auto build OpenWrt firmware for 360T7 via GitHub Actions
+## 20260324
+1、添加了passwall
+2、config是immortalwrt25.12使用的
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/sagehou/360T7-ImmortalWrt?style=for-the-badge&label=Download)](https://github.com/sagehou/360T7-ImmortalWrt/releases/latest)
+## 默认
 
-| Default ip | Default user | Default password |
-| --- | --- | --- | 
-| 192.168.233.1 | root | - |
+默认IP：192.168.10.1
+用户名：root
+密码：password
+WiFi名称：ImmortalWrt
+WiFi密码：123456789
 
 Change Repo to [immortalwrt-mt798x-24.10](https://github.com/padavanonly/immortalwrt-mt798x-6.6)
 BRANCH: openwrt-24.10-6.6
