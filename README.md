@@ -1,4 +1,4 @@
-# Cudy-TR3000-ImmortalWrt24.10
+# Cudy-TR3000-V1-112M-ImmortalWrt24.10
 
 # 测试用：ImmortalWrt24.10-padavanonly 修改 源 而来，固件 itb 格式
 
