@@ -1,7 +1,6 @@
 # Cudy-TR3000-V1-112M-ImmortalWrt24.10
 
-# 测试用：ImmortalWrt24.10-padavanonly 修改 源 而来，固件 itb 格式
-
+## 20260327：WiFi加密方式WPA3有些低端设备连接不上
 
 ## 20260324
 - 添加了passwall
