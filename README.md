@@ -1,8 +1,8 @@
-# Cudy-TR3000-V1-112M-ImmortalWrt24.10
+# Cudy-TR3000-V1-112M-ImmortalWrt25.12
 
 ## 20260327：WiFi加密方式WPA3有些低端设备连接不上
 
-## 20260324
+## 20260320
 - 添加了passwall
 
 - config 是 Immortalwrt24.10-padavanonly-Cudy-TR3000
@@ -11,7 +11,7 @@
 ## Version
 REPO_URL: https://github.com/immortalwrt/immortalwrt.git
 
-  REPO_BRANCH: openwrt-24.10
+REPO_BRANCH: openwrt-25.12
 
 
 ## 默认设置
