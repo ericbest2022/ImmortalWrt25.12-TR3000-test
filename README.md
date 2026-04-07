@@ -14,6 +14,12 @@
     https://github.com/bnaand/immortalwrt-mt798x-cudy-tr3000-6.6
 
 
+# 编译环境
+
+    借用【sagehou/360T7-ImmortalWrt】
+    https://github.com/sagehou/360T7-ImmortalWrt
+
+
 ## Version
 
 	REPO_URL: https://github.com/immortalwrt/immortalwrt.git
